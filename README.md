@@ -36,8 +36,8 @@ The PV system was simulated using PVLiB, and the results were as follows:
 A basic financial analysis was conducted with the following assumptions:
 - **Cost per Watt:** €1.5 EUR/W
 - **System Cost:** €24,000.00 EUR
-- 
-Given that the LCOE of solar PV is higher than existing electricity tarrif, installing a PV system may not result in immediate cost savings per kWh for consumers paying the standard rates. However, what must be considered is that the electricity supply from Ethiopian Electricity grid is unreliable and often interrupted. Therefore, services where their income mainly relies on reliable electricity supply should invest on an off-grid PV-system.
+
+Given that the Levelized Cost of Energy (LCOE) for solar PV is higher than the current electricity tariff in Ethiopia, installing a PV system may not lead to immediate cost savings per kWh for consumers paying standard rates. However, it is crucial to consider the unreliability and frequent interruptions of the Ethiopian electricity grid. For businesses and essential services whose operations depend on a stable and continuous power supply, investing in an off-grid solar PV system can provide energy security, operational stability, and long-term resilience, making it a strategic investment despite the higher initial costs.
 
 ## Future Improvements
 The model can be enhanced by:
