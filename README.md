@@ -35,12 +35,9 @@ The PV system was simulated using PVLiB, and the results were as follows:
 ## Financial Analysis
 A basic financial analysis was conducted with the following assumptions:
 - **Cost per Watt:** €1.5 EUR/W
-- **Electricity Price:** €0.12 EUR/kWh
 - **System Cost:** €24,000.00 EUR
-- **Revenue:** €738.82 EUR (from 8 days of energy generation)
-- **Simple Payback Period:** 32.48 days
-
-The results of the cost analysis are dependent on these assumptions. Adjusting the cost per watt or electricity price would alter the financial feasibility of the system.
+- 
+Given that the LCOE of solar PV is higher than existing electricity tarrif, installing a PV system may not result in immediate cost savings per kWh for consumers paying the standard rates. However, what must be considered is that the electricity supply from Ethiopian Electricity grid is unreliable and often interrupted. Therefore, services where their income mainly relies on reliable electricity supply should invest on an off-grid PV-system.
 
 ## Future Improvements
 The model can be enhanced by:
